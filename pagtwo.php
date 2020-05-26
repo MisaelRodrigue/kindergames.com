@@ -1,4 +1,4 @@
-<div style="background:transparent !important" class="jumbotron">
+<div class="jumbotron Myback">
   <h1>Essa é outra sala desse creche</h1>
   <p>Outro jogo antigo e que ate hoje faz parte das minhas jogatinas é o castlevania.</p>
   

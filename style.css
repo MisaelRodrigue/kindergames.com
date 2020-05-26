@@ -1,0 +1,24 @@
+.Myback{
+	background:transparent !important;
+}
+.jumbotron{
+	background: #00CCFF;
+}
+.centro{
+	text-align: center;
+}
+.margin_coments{
+	margin-top: 5px;
+	margin-left: 35px;
+	margin-bottom: 5px;
+}
+.submit_button{
+	margin-left: 150px;
+	margin-top: 5px;
+}
+.borda{
+	border: groove;
+	border-color: gray;
+	width: 320px;
+	height: 100px;
+}

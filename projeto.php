@@ -1,4 +1,4 @@
-<div style="background:transparent !important" class="jumbotron">
+<div class="jumbotron Myback">
     <h1>Seja bem vindo por favor limpe os sapatos no tapete antes de entrar</h1>
     <p>Pelo titulo ja se possui uma ideia do que se trata esse site isso mesmo alco em gel inclusive..Brincadeira se trata sobre games aqui irei falar sobres jogos incriveis alguns antigos ( que obtive acesso atraves de emuladores amén) outros menos antigos (do meu antigo xbox 360 que foi sacrificado para a conclusao do meu ensino medio triste kk e do meu playstation 2).</p>
     

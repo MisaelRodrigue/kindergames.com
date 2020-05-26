@@ -1,4 +1,4 @@
-<div style="background:transparent !important" class="jumbotron">
+<div class="jumbotron Myback">
   <h1>Juro que ja esta acabando</h1>
   <p>Pra tempos de corona virus tem um jogo perfeito o nome dele é parasyte eve</p>
   

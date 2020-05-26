@@ -1,4 +1,4 @@
-<title>KindeGames.com</title>
+<title>KinderGames.com</title>
 <?php include_once("header.php");
 
 #conteudo
